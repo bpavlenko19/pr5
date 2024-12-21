@@ -1,0 +1,5 @@
+flask
+flask-smorest
+flask-jwt-extended
+flask-sqlalchemy
+marshmallow
